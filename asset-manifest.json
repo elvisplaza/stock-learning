@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/stock-learning/static/css/main.c0571006.chunk.css",
+    "main.css": "/stock-learning/static/css/main.ae079a33.chunk.css",
     "main.js": "/stock-learning/static/js/main.16c8edab.chunk.js",
     "main.js.map": "/stock-learning/static/js/main.16c8edab.chunk.js.map",
     "runtime-main.js": "/stock-learning/static/js/runtime-main.97f125d9.js",
@@ -8,15 +8,15 @@
     "static/js/2.47441644.chunk.js": "/stock-learning/static/js/2.47441644.chunk.js",
     "static/js/2.47441644.chunk.js.map": "/stock-learning/static/js/2.47441644.chunk.js.map",
     "index.html": "/stock-learning/index.html",
-    "precache-manifest.19960c1d90693b7297174c6775174488.js": "/stock-learning/precache-manifest.19960c1d90693b7297174c6775174488.js",
+    "precache-manifest.0329b3289ee5dbacfa7af6ddbb33916a.js": "/stock-learning/precache-manifest.0329b3289ee5dbacfa7af6ddbb33916a.js",
     "service-worker.js": "/stock-learning/service-worker.js",
-    "static/css/main.c0571006.chunk.css.map": "/stock-learning/static/css/main.c0571006.chunk.css.map",
+    "static/css/main.ae079a33.chunk.css.map": "/stock-learning/static/css/main.ae079a33.chunk.css.map",
     "static/js/2.47441644.chunk.js.LICENSE.txt": "/stock-learning/static/js/2.47441644.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.97f125d9.js",
     "static/js/2.47441644.chunk.js",
-    "static/css/main.c0571006.chunk.css",
+    "static/css/main.ae079a33.chunk.css",
     "static/js/main.16c8edab.chunk.js"
   ]
 }
