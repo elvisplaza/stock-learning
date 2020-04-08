@@ -22,11 +22,13 @@ export const stockData = [
       "When a stock is trading below the previous day's closing price, it is considered to be “red,” whereas if it is trading above the previous day's closing price, it is considered to be “green.” When a stock goes from red to green, the share price moves from below the previous close to above the previous close.",
     title: "Red to Green Move",
   },
-  //  {
-  //   front:,
-  //   back:,
-  //   title:"",
-  // },
+  {
+    front:
+      "https://www.investopedia.com/thmb/KVgZRgFj8667FiQmOhxz3jXHM2M=/6251x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/CupandHandleDefinition2_2-6d878cce60a64dae821b87065d70708d.png",
+    back:
+      "consist of a drop in price (like a v) and a rise back to it's original value, followed by a smaller drop and a rise past the previous peak",
+    title: "Cup and Handle Pattern",
+  },
   //  {
   //   front:,
   //   back:,
