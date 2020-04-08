@@ -29,16 +29,20 @@ export const stockData = [
       "consist of a drop in price (like a v) and a rise back to it's original value, followed by a smaller drop and a rise past the previous peak",
     title: "Cup and Handle Pattern",
   },
-  //  {
-  //   front:,
-  //   back:,
-  //   title:"",
-  // },
-  //  {
-  //   front:,
-  //   back:,
-  //   title:"",
-  // },
+  {
+    front:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ526RkthRqFV9VRh2xfqbJAoiuvmZWWdJlqRV9UE5YFWer44yU&usqp=CAU",
+    back:
+      "it is characterized by three equal lows followed by a breakout above the resistance level. It is seen as an opportunity to enter a bullish position",
+    title: "Triple Bottom Pattern",
+  },
+  {
+    front:
+      "https://www.investopedia.com/thmb/a_jcvTukbZPFlM5NMPW5hPDNIcU=/2648x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dotdash_Final_Inverse_Head_And_Shoulders_Definition_Feb_2020-01-97f223a0a4224c2f8d303e84f4725a39.jpg",
+    back:
+      "This pattern is identified when the price action of a security meets the following characteristics: the price falls to a trough and then rises; the price falls below the former trough and then rises again; finally, the price falls again but not as far as the second trough. Once the final trough is made, the price heads up",
+    title: "Inverse Head & Shoulderes",
+  },
   //  {
   //   front:,
   //   back:,
