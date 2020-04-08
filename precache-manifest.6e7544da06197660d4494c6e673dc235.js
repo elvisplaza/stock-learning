@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c715d0d6cf744046737761a789fb0e89",
+    "revision": "93feb275f10d805fc0f4a70aa0076456",
     "url": "/stock-learning/index.html"
   },
   {
-    "revision": "7d5acc0fe728a58fc999",
-    "url": "/stock-learning/static/css/main.19e22664.chunk.css"
+    "revision": "7593a7cbbed7d3ba293d",
+    "url": "/stock-learning/static/css/main.da92f456.chunk.css"
   },
   {
     "revision": "49c2707e4fd258ad870a",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/stock-learning/static/js/2.47441644.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7d5acc0fe728a58fc999",
-    "url": "/stock-learning/static/js/main.bc040116.chunk.js"
+    "revision": "7593a7cbbed7d3ba293d",
+    "url": "/stock-learning/static/js/main.9e8c004e.chunk.js"
   },
   {
     "revision": "0a33ff3f4e51901b7054",
