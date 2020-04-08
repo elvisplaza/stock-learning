@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/stock-learning/static/css/main.da92f456.chunk.css",
-    "main.js": "/stock-learning/static/js/main.9e8c004e.chunk.js",
-    "main.js.map": "/stock-learning/static/js/main.9e8c004e.chunk.js.map",
+    "main.css": "/stock-learning/static/css/main.c0571006.chunk.css",
+    "main.js": "/stock-learning/static/js/main.16c8edab.chunk.js",
+    "main.js.map": "/stock-learning/static/js/main.16c8edab.chunk.js.map",
     "runtime-main.js": "/stock-learning/static/js/runtime-main.97f125d9.js",
     "runtime-main.js.map": "/stock-learning/static/js/runtime-main.97f125d9.js.map",
     "static/js/2.47441644.chunk.js": "/stock-learning/static/js/2.47441644.chunk.js",
     "static/js/2.47441644.chunk.js.map": "/stock-learning/static/js/2.47441644.chunk.js.map",
     "index.html": "/stock-learning/index.html",
-    "precache-manifest.6e7544da06197660d4494c6e673dc235.js": "/stock-learning/precache-manifest.6e7544da06197660d4494c6e673dc235.js",
+    "precache-manifest.19960c1d90693b7297174c6775174488.js": "/stock-learning/precache-manifest.19960c1d90693b7297174c6775174488.js",
     "service-worker.js": "/stock-learning/service-worker.js",
-    "static/css/main.da92f456.chunk.css.map": "/stock-learning/static/css/main.da92f456.chunk.css.map",
+    "static/css/main.c0571006.chunk.css.map": "/stock-learning/static/css/main.c0571006.chunk.css.map",
     "static/js/2.47441644.chunk.js.LICENSE.txt": "/stock-learning/static/js/2.47441644.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.97f125d9.js",
     "static/js/2.47441644.chunk.js",
-    "static/css/main.da92f456.chunk.css",
-    "static/js/main.9e8c004e.chunk.js"
+    "static/css/main.c0571006.chunk.css",
+    "static/js/main.16c8edab.chunk.js"
   ]
 }
