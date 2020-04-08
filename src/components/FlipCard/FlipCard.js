@@ -1,10 +1,19 @@
 import React from "react";
+import s from "./FlipCard.css";
 
-const FlipCard = (props) => {
+const FlipCard = ({ front, back, title }) => {
   return (
-    <section>
-      <h2> im a flip card!</h2>
-    </section>
+    <div class='flip-card'>
+      <div class='flip-card-inner'>
+        <div class='flip-card-front'>
+          <img src={front} />
+        </div>
+        <div class='flip-card-back'>
+          <h2>{title}</h2>
+          <p>{back}</p>
+        </div>
+      </div>
+    </div>
   );
 };
 
