@@ -1,8 +1,13 @@
 .App {
+  background: #ec4372;
+  height: 100vh;
+}
+
+.flip_card_container {
   display: flex;
   padding: 10px;
   background: #ec4372;
-  height: 100vh;
+
   flex-wrap: wrap;
 }
 

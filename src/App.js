@@ -9,9 +9,11 @@ class App extends Component {
   render() {
     return (
       <div className='App'>
-        {stockData.map((card) => {
-          return <FlipCard front={card.front} back={card.back} title={card.title} />;
-        })}
+        <div className='flip_card_container'>
+          {stockData.map((card) => {
+            return <FlipCard front={card.front} back={card.back} title={card.title} />;
+          })}
+        </div>
       </div>
     );
   }
